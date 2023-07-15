@@ -27,8 +27,8 @@ const Header = () => {
         {/* desktop */}
           <div className='flex items-center h-full justify-between'>
             <Link to={""}>
-            <div className='h-10'>
-               <img src={logo} className='h-full'/>
+            <div className='h-12'>
+               <img src={"https://i.pinimg.com/originals/d3/08/71/d308713335c62ffe453341fb2a3afd05.jpg"} className='h-full'/>
              </div>
             </Link>
             <div className='flex items=center gap-4 md:gap-7'>
